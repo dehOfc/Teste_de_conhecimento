@@ -397,6 +397,7 @@ header{
     color: #eee;
     border: none;
     box-shadow: 0 .1rem .8rem rgba( 0, 0, 0, .4);
+    cursor: pointer;
 }
 
 .card:hover .card-info{
